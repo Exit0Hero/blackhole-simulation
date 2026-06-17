@@ -1,0 +1,27 @@
+#.DS_Store
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode
+.vscode/
+
+# env
+.env
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Logs
+logs
+*.log
+
+# Temporary
+tmp/
+dist/
+build/
